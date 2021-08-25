@@ -1,0 +1,9 @@
+C:\training\core\VMS\DALC\bin\Debug\netcoreapp3.1\DALC.deps.json
+C:\training\core\VMS\DALC\bin\Debug\netcoreapp3.1\DALC.dll
+C:\training\core\VMS\DALC\bin\Debug\netcoreapp3.1\DALC.pdb
+C:\training\core\VMS\DALC\obj\Debug\netcoreapp3.1\DALC.AssemblyInfoInputs.cache
+C:\training\core\VMS\DALC\obj\Debug\netcoreapp3.1\DALC.AssemblyInfo.cs
+C:\training\core\VMS\DALC\obj\Debug\netcoreapp3.1\DALC.dll
+C:\training\core\VMS\DALC\obj\Debug\netcoreapp3.1\DALC.pdb
+C:\training\core\VMS\DALC\obj\Debug\netcoreapp3.1\DALC.csproj.CoreCompileInputs.cache
+C:\training\core\VMS\DALC\obj\Debug\netcoreapp3.1\DALC.csprojAssemblyReference.cache

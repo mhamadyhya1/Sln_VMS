@@ -1,0 +1,12 @@
+C:\training\core\VMS\BLC\bin\Debug\netcoreapp3.1\BLC.deps.json
+C:\training\core\VMS\BLC\bin\Debug\netcoreapp3.1\BLC.dll
+C:\training\core\VMS\BLC\obj\Debug\netcoreapp3.1\BLC.AssemblyInfoInputs.cache
+C:\training\core\VMS\BLC\obj\Debug\netcoreapp3.1\BLC.AssemblyInfo.cs
+C:\training\core\VMS\BLC\obj\Debug\netcoreapp3.1\BLC.csproj.CoreCompileInputs.cache
+C:\training\core\VMS\BLC\bin\Debug\netcoreapp3.1\BLC.pdb
+C:\training\core\VMS\BLC\obj\Debug\netcoreapp3.1\BLC.dll
+C:\training\core\VMS\BLC\obj\Debug\netcoreapp3.1\BLC.pdb
+C:\training\core\VMS\BLC\obj\Debug\netcoreapp3.1\BLC.csprojAssemblyReference.cache
+C:\training\core\VMS\BLC\bin\Debug\netcoreapp3.1\DALC.dll
+C:\training\core\VMS\BLC\bin\Debug\netcoreapp3.1\DALC.pdb
+C:\training\core\VMS\BLC\obj\Debug\netcoreapp3.1\BLC.csproj.CopyComplete

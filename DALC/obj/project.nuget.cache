@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7lBlH6paVJhwAy+jMjDGVVJqLUOnYUQmDsp4F4YD5Ity6re5mqGiIMC2OcIlIn7Rzod1fcC08vLZptWePjmkKw==",
+  "success": true,
+  "projectFilePath": "D:\\rony (full stack)\\Web2 (Net core)\\Net Core (Practice)\\VMS(Full Web API Practice)\\VMS\\DALC\\DALC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mhama\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.8\\microsoft.extensions.configuration.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\mhama\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.8\\microsoft.extensions.primitives.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

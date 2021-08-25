@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\rony (full stack)\\Web2 (Net core)\\Net Core (Practice)\\VMS(Full Web API Practice)\\VMS\\BLC\\BLC.csproj": {}
+  },
+  "projects": {
+    "D:\\rony (full stack)\\Web2 (Net core)\\Net Core (Practice)\\VMS(Full Web API Practice)\\VMS\\BLC\\BLC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\rony (full stack)\\Web2 (Net core)\\Net Core (Practice)\\VMS(Full Web API Practice)\\VMS\\BLC\\BLC.csproj",
+        "projectName": "BLC",
+        "projectPath": "D:\\rony (full stack)\\Web2 (Net core)\\Net Core (Practice)\\VMS(Full Web API Practice)\\VMS\\BLC\\BLC.csproj",
+        "packagesPath": "C:\\Users\\mhama\\.nuget\\packages\\",
+        "outputPath": "D:\\rony (full stack)\\Web2 (Net core)\\Net Core (Practice)\\VMS(Full Web API Practice)\\VMS\\BLC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mhama\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\rony (full stack)\\Web2 (Net core)\\Net Core (Practice)\\VMS(Full Web API Practice)\\VMS\\DALC\\DALC.csproj": {
+                "projectPath": "D:\\rony (full stack)\\Web2 (Net core)\\Net Core (Practice)\\VMS(Full Web API Practice)\\VMS\\DALC\\DALC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\rony (full stack)\\Web2 (Net core)\\Net Core (Practice)\\VMS(Full Web API Practice)\\VMS\\DALC\\DALC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\rony (full stack)\\Web2 (Net core)\\Net Core (Practice)\\VMS(Full Web API Practice)\\VMS\\DALC\\DALC.csproj",
+        "projectName": "DALC",
+        "projectPath": "D:\\rony (full stack)\\Web2 (Net core)\\Net Core (Practice)\\VMS(Full Web API Practice)\\VMS\\DALC\\DALC.csproj",
+        "packagesPath": "C:\\Users\\mhama\\.nuget\\packages\\",
+        "outputPath": "D:\\rony (full stack)\\Web2 (Net core)\\Net Core (Practice)\\VMS(Full Web API Practice)\\VMS\\DALC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mhama\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
